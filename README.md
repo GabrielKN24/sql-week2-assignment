@@ -32,7 +32,7 @@ To run these SQL scripts, you will need:
 - Some functions may vary slightly between different SQL dialects (MySQL, PostgreSQL, etc.).
 
 ## Author
-[Your Name]
+[Gabriel Kimani]
 
 ## Date
 April 2026
